@@ -1,0 +1,12 @@
+    Este archivo de texto contiene varias líneas de texto para practicar con Python.
+Puedes realizar diversas operaciones como leer el contenido línea por línea, 
+contar palabras, buscar patrones, o realizar análisis de texto.
+
+    Experimenta con las funciones de manipulación de archivos para abrir, 
+leer, escribir y cerrar este archivo. 
+
+    Recuerda que la práctica es clave para mejorar tus habilidades de programación.
+
+    ¡Anímate a explorar y descubrir todo lo que puedes hacer con Python! 
+Este texto es un poco más largo y ofrece más oportunidades para practicar 
+con diferentes técnicas de manipulación de archivos en Python.
